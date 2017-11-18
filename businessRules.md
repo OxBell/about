@@ -1,4 +1,4 @@
-# Buisness Rules
+# Business Rules
 ---
 A **Poll** is automatically created every begginning of the week.
 A **Poll** has *zero* or *many* **Choice**.
