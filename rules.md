@@ -13,4 +13,17 @@ An **Event** has a **Forum**.
 
 A **Forum** has *zero* or *many* **Topic**.
 A **Topic** has *zero* or *many* **Post**.
+An **User** can create *zero* or *many* **Topic**.
 An **User** can create *zero* or *many* **Post**.
+
+# Roles & permissions
+---
++ **User**
+  + Create a new Choice.
+  + Vote for one or more choice(s).
+  + Participate in an event.
+  + Create a topic.
+  + Create a post.
++ **Administrator**
+  + Users right.
+  + Edit event's information.
