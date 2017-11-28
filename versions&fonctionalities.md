@@ -21,6 +21,7 @@
   + l'utilisateur qui a proposé le choix est modo du forum
   + gestion du forum par les admins et modo
   + ? possibilité d'ajouter d'autres modos par les admins ?
+  + Système de badges (sortie, constribution, photos ...) => Gamification
 
 + **V1.X et X.X**
   + possibilité aux participants à un event d'upload des photos/?vidéos? pendant et jusqu'à une semaine après l'event
