@@ -1,7 +1,6 @@
 # Features Roadmap
 ---
 + **Beta1**
-  + login via facebook
   + génération du poll auto
   + possibilité d'ajouter des propositions
   + possibilité de voter
@@ -15,6 +14,7 @@
   + possibilité de supprimer un choix par les admins
 
 + **Beta2**
+  + login via facebook
   + génération d'un forum lié à l'event
   + création/édition de topics sur le forum
   + possibilité de poster sur les topics
